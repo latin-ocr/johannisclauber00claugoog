@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./johannisclauber00claugoog_0221.png"; bbox 0 0 3391 4418; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 996 72 2829 208">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 996 72 2829 208">
+     <span class='ocr_line' id='line_1_1' title="bbox 996 72 2829 208; baseline 0.003 -5"><span class='ocrx_word' id='word_1_1' title='bbox 996 116 1758 203; x_wconf 56' lang='lat' dir='ltr'>Parnm</span> <span class='ocrx_word' id='word_1_2' title='bbox 1811 72 2251 201; x_wconf 61' lang='grc' dir='ltr'><strong>ΧΧΙΠᾼ</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 2674 130 2829 208; x_wconf 75' lang='lat'>201</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 396 225 2844 370">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 396 225 2844 370">
+     <span class='ocr_line' id='line_1_2' title="bbox 396 225 2844 370; baseline -0 -64"><span class='ocrx_word' id='word_1_4' title='bbox 396 257 643 370; x_wconf 53' lang='lat' dir='ltr'>pega</span> <span class='ocrx_word' id='word_1_5' title='bbox 640 253 714 304; x_wconf 87' lang='lat' dir='ltr'>ut</span> <span class='ocrx_word' id='word_1_6' title='bbox 742 240 911 331; x_wconf 69' lang='lat' dir='ltr'>aqua</span> <span class='ocrx_word' id='word_1_7' title='bbox 926 278 952 314; x_wconf 85' lang='lat'><em>,</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 926 256 1198 370; x_wconf 50' lang='lat' dir='ltr'><strong>...afrm</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1111 238 1245 312; x_wconf 63' lang='lat' dir='ltr'><strong>dcc.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1287 226 1419 301; x_wconf 86' lang='lat' dir='ltr'>fine</span> <span class='ocrx_word' id='word_1_11' title='bbox 1443 228 1570 302; x_wconf 83' lang='lat' dir='ltr'>ulla</span> <span class='ocrx_word' id='word_1_12' title='bbox 1595 225 2188 370; x_wconf 16' lang='lat' dir='ltr'>difficultati-iouia</span> <span class='ocrx_word' id='word_1_13' title='bbox 2167 225 2273 300; x_wconf 79' lang='lat' dir='ltr'>sua</span> <span class='ocrx_word' id='word_1_14' title='bbox 2248 226 2691 370; x_wconf 49' lang='grc' dir='ltr'>εοὲροῐὶδιιε</span> <span class='ocrx_word' id='word_1_15' title='bbox 2705 233 2844 370; x_wconf 49' lang='lat' dir='ltr'>alit}</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1827 4036 2854 4105">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1827 4036 2854 4105">
+     <span class='ocr_line' id='line_1_3' title="bbox 1827 4036 2854 4105; baseline -0.006 -21"><span class='ocrx_word' id='word_1_16' title='bbox 1827 4036 1891 4105; x_wconf 78' lang='lat' dir='ltr'>C</span> <span class='ocrx_word' id='word_1_17' title='bbox 1914 4053 1953 4102; x_wconf 72' lang='lat' dir='ltr'>c</span> <span class='ocrx_word' id='word_1_18' title='bbox 2124 4038 2140 4061; x_wconf 85' lang='lat'>&#39;</span> <span class='ocrx_word' id='word_1_19' title='bbox 2670 4036 2854 4090; x_wconf 56' lang='lat' dir='ltr'><strong>MCC}-</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

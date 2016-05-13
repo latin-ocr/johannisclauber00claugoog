@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./johannisclauber00claugoog_0231.png"; bbox 0 0 3391 4418; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1099 87 2864 195">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1099 87 2864 195">
+     <span class='ocr_line' id='line_1_1' title="bbox 1099 87 2864 195; baseline 0.011 -21"><span class='ocrx_word' id='word_1_1' title='bbox 1099 87 1815 192; x_wconf 73' lang='lat' dir='ltr'>PHYs1cA</span> <span class='ocrx_word' id='word_1_2' title='bbox 1926 98 2245 185; x_wconf 86' lang='lat' dir='ltr'>XXV.</span> <span class='ocrx_word' id='word_1_3' title='bbox 2719 137 2864 195; x_wconf 79' lang='lat' dir='ltr'>zu</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 451 202 2867 395">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 451 202 2867 395">
+     <span class='ocr_line' id='line_1_2' title="bbox 451 202 2867 310; baseline 0.002 -26"><span class='ocrx_word' id='word_1_4' title='bbox 451 213 538 285; x_wconf 86' lang='lat' dir='ltr'>lia</span> <span class='ocrx_word' id='word_1_5' title='bbox 562 205 812 290; x_wconf 74' lang='lat' dir='ltr'>,veluti</span> <span class='ocrx_word' id='word_1_6' title='bbox 854 202 1095 275; x_wconf 87' lang='lat' dir='ltr'>coelum</span> <span class='ocrx_word' id='word_1_7' title='bbox 1123 212 1194 275; x_wconf 67' lang='lat' dir='ltr'>Sc</span> <span class='ocrx_word' id='word_1_8' title='bbox 1221 202 1544 274; x_wconf 85' lang='lat' dir='ltr'>elementa</span> <span class='ocrx_word' id='word_1_9' title='bbox 1566 249 1588 280; x_wconf 80' lang='grc'><strong><em>,</em></strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1618 215 1764 290; x_wconf 81' lang='lat' dir='ltr'>a‘e‘r,</span> <span class='ocrx_word' id='word_1_11' title='bbox 1802 237 2010 290; x_wconf 79' lang='lat' dir='ltr'>aqua,</span> <span class='ocrx_word' id='word_1_12' title='bbox 2053 237 2241 287; x_wconf 82' lang='lat' dir='ltr'>tetra.</span> <span class='ocrx_word' id='word_1_13' title='bbox 2316 219 2667 290; x_wconf 75' lang='lat' dir='ltr'>Contenta:</span> <span class='ocrx_word' id='word_1_14' title='bbox 2686 219 2867 310; x_wconf 84' lang='lat' dir='ltr'>sunt,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 2845 351 2863 395; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 2845 351 2863 395; x_wconf 88' lang='grc' dir='ltr'><strong>ι</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

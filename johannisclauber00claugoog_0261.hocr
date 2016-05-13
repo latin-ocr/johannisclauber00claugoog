@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./johannisclauber00claugoog_0261.png"; bbox 0 0 3391 4418; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 416 102 2851 314">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 416 102 2851 314">
+     <span class='ocr_line' id='line_1_1' title="bbox 1049 102 2844 223; baseline 0.008 -35"><span class='ocrx_word' id='word_1_1' title='bbox 1049 102 2224 201; x_wconf 60' lang='grc' dir='ltr'>ΡηνςιοΑΧΧΞΩ</span> <span class='ocrx_word' id='word_1_2' title='bbox 2691 140 2844 223; x_wconf 79' lang='lat'>²43</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 416 215 2851 314; baseline -0.001 -10"><span class='ocrx_word' id='word_1_3' title='bbox 416 223 781 303; x_wconf 61' lang='lat' dir='ltr'>stenndam</span> <span class='ocrx_word' id='word_1_4' title='bbox 799 218 1061 296; x_wconf 69' lang='lat' dir='ltr'>eatae:-</span> <span class='ocrx_word' id='word_1_5' title='bbox 1077 215 1327 314; x_wconf 77' lang='lat' dir='ltr'>regnlas</span> <span class='ocrx_word' id='word_1_6' title='bbox 1342 218 1735 308; x_wconf 84' lang='lat' dir='ltr'>constmi,ut</span> <span class='ocrx_word' id='word_1_7' title='bbox 1747 218 1954 295; x_wconf 82' lang='lat' dir='ltr'>fimile</span> <span class='ocrx_word' id='word_1_8' title='bbox 1976 247 2241 297; x_wconf 81' lang='lat' dir='ltr'>carmen</span> <span class='ocrx_word' id='word_1_9' title='bbox 2259 220 2418 298; x_wconf 86' lang='lat' dir='ltr'>inde</span> <span class='ocrx_word' id='word_1_10' title='bbox 2440 218 2721 305; x_wconf 67' lang='lat' dir='ltr'><strong>teffilret.</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 2737 236 2851 306; x_wconf 80' lang='lat' dir='ltr'>Sic</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1733 4004 2878 4084">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1733 4004 2878 4084">
+     <span class='ocr_line' id='line_1_3' title="bbox 1733 4004 2878 4084; baseline -0.002 -14"><span class='ocrx_word' id='word_1_12' title='bbox 1733 4004 1872 4071; x_wconf 84' lang='lat' dir='ltr'>Hh</span> <span class='ocrx_word' id='word_1_13' title='bbox 1929 4022 1986 4068; x_wconf 62' lang='grc' dir='ltr'>ι.</span> <span class='ocrx_word' id='word_1_14' title='bbox 2513 4018 2633 4084; x_wconf 77' lang='lat'>44,</span> <span class='ocrx_word' id='word_1_15' title='bbox 2672 4004 2878 4060; x_wconf 68' lang='lat' dir='ltr'><strong>xv...</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

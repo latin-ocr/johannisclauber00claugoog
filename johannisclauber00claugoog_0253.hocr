@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./johannisclauber00claugoog_0253.png"; bbox 0 0 3391 4418; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1055 112 2807 239">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1055 112 2807 239">
+     <span class='ocr_line' id='line_1_1' title="bbox 1055 112 2807 239; baseline 0.006 -38"><span class='ocrx_word' id='word_1_1' title='bbox 1055 112 1776 209; x_wconf 53' lang='lat' dir='ltr'>insmA</span> <span class='ocrx_word' id='word_1_2' title='bbox 1891 115 2208 212; x_wconf 87' lang='lat' dir='ltr'>XXX.</span> <span class='ocrx_word' id='word_1_3' title='bbox 2653 146 2807 239; x_wconf 71' lang='lat'>233</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 386 233 2820 323">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 386 233 2820 323">
+     <span class='ocr_line' id='line_1_2' title="bbox 386 233 2820 323; baseline 0.007 -24"><span class='ocrx_word' id='word_1_4' title='bbox 386 263 462 314; x_wconf 70' lang='lat' dir='ltr'>ut</span> <span class='ocrx_word' id='word_1_5' title='bbox 495 259 800 310; x_wconf 79' lang='lat' dir='ltr'>naturam</span> <span class='ocrx_word' id='word_1_6' title='bbox 833 256 1052 305; x_wconf 81' lang='lat' dir='ltr'><strong>rerum</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1089 238 1455 304; x_wconf 73' lang='lat' dir='ltr'>ct’eatatum</span> <span class='ocrx_word' id='word_1_8' title='bbox 1489 242 1559 307; x_wconf 70' lang='grc' dir='ltr'>δι</span> <span class='ocrx_word' id='word_1_9' title='bbox 1587 233 2049 308; x_wconf 83' lang='lat' dir='ltr'>admirandum</span> <span class='ocrx_word' id='word_1_10' title='bbox 2070 237 2412 310; x_wconf 77' lang='lat' dir='ltr'>creatoris</span> <span class='ocrx_word' id='word_1_11' title='bbox 2429 239 2820 323; x_wconf 57' lang='lat' dir='ltr'>artificium»</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

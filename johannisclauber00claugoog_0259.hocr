@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./johannisclauber00claugoog_0259.png"; bbox 0 0 3391 4418; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1102 83 2893 238">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1102 83 2893 238">
+     <span class='ocr_line' id='line_1_1' title="bbox 1102 83 2893 238; baseline 0.016 -48"><span class='ocrx_word' id='word_1_1' title='bbox 1102 83 1856 197; x_wconf 62' lang='lat' dir='ltr'>ansch</span> <span class='ocrx_word' id='word_1_2' title='bbox 1976 116 2293 208; x_wconf 87' lang='lat' dir='ltr'>XXX</span> <span class='ocrx_word' id='word_1_3' title='bbox 2698 137 2893 238; x_wconf 79' lang='lat'>2&#39;41</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 473 219 2826 314">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 473 219 2826 314">
+     <span class='ocr_line' id='line_1_2' title="bbox 473 219 2826 314; baseline 0.007 -16"><span class='ocrx_word' id='word_1_4' title='bbox 473 233 729 314; x_wconf 79' lang='lat' dir='ltr'>tionem</span> <span class='ocrx_word' id='word_1_5' title='bbox 777 219 943 294; x_wconf 81' lang='lat' dir='ltr'>nihil</span> <span class='ocrx_word' id='word_1_6' title='bbox 977 220 1150 295; x_wconf 76' lang='lat' dir='ltr'>aliud</span> <span class='ocrx_word' id='word_1_7' title='bbox 1185 219 1308 294; x_wconf 71' lang='lat' dir='ltr'>effi</span> <span class='ocrx_word' id='word_1_8' title='bbox 1340 226 1573 297; x_wconf 83' lang='lat' dir='ltr'>statuat</span> <span class='ocrx_word' id='word_1_9' title='bbox 1609 250 1811 314; x_wconf 82' lang='lat' dir='ltr'>quam</span> <span class='ocrx_word' id='word_1_10' title='bbox 1850 227 2068 304; x_wconf 84' lang='lat' dir='ltr'>literas</span> <span class='ocrx_word' id='word_1_11' title='bbox 2095 234 2433 314; x_wconf 78' lang='lat' dir='ltr'>separatim</span> <span class='ocrx_word' id='word_1_12' title='bbox 2471 240 2826 314; x_wconf 66' lang='lat' dir='ltr'>existentes.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1757 4004 2822 4095">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1757 4004 2822 4095">
+     <span class='ocr_line' id='line_1_3' title="bbox 1757 4004 2822 4095; baseline 0.007 -23"><span class='ocrx_word' id='word_1_13' title='bbox 1757 4004 1919 4095; x_wconf 63' lang='lat' dir='ltr'>ffla„</span> <span class='ocrx_word' id='word_1_14' title='bbox 2659 4011 2822 4079; x_wconf 74' lang='lat' dir='ltr'>m·-</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
